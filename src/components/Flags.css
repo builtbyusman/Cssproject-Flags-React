@@ -1,0 +1,180 @@
+/* ---------- GLOBAL ---------- */
+body {
+  background-color: antiquewhite;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* ---------- NORWAY ---------- */
+#norway {
+  text-transform: capitalize;
+  color: #002768;
+}
+
+.flag1 {
+  height: 450px;
+  width: 600px;
+  margin: 20px auto;
+  font-size: 0;
+}
+
+.sm1 {
+  width: 600px;
+  height: 165px;
+}
+
+.df1 {
+  width: 600px;
+  height: 120px;
+  background-color: white;
+}
+
+.sm1 > div,
+.df1 > div {
+  display: inline-block;
+}
+
+.same1 {
+  background-color: #ef2b2d;
+}
+
+.fr1 {
+  width: 150px;
+  height: 165px;
+}
+
+.sc1 {
+  width: 92px;
+  background-color: white;
+  height: 165px;
+}
+
+.th1 {
+  width: 350px;
+  height: 165px;
+}
+
+.wth1 {
+  height: 165px;
+  width: 50px;
+  background-color: #002768;
+  position: relative;
+  left: 20px;
+}
+
+.qwe1 {
+  width: 100%;
+  height: 50px;
+  background-color: #002768;
+  position: relative;
+  top: 40px;
+}
+
+.iop1 {
+  height: 40px;
+  width: 50px;
+  background-color: #002768;
+  position: relative;
+}
+
+.r41 {
+  top: 0;
+  left: 20px;
+}
+
+.r51 {
+  bottom: 0;
+  left: 20px;
+}
+
+.asd1 {
+  height: 50px;
+  width: 100%;
+  background-color: #002768;
+}
+
+/* ---------- USA ---------- */
+#usa {
+  text-transform: capitalize;
+  color: #db3e00;
+  font-size: 40px;
+}
+
+.flag2 {
+  height: 450px;
+  width: 600px;
+  margin: 20px auto;
+  font-size: 0;
+  position: relative;
+}
+
+.same2 {
+  width: 600px;
+  height: 35px;
+}
+
+.red2 {
+  background-color: #db3e00;
+}
+
+.wht2 {
+  background-color: #f2f2f2;
+}
+
+.blu2 {
+  height: 245px;
+  width: 280px;
+  background-color: #3d266c;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.str2 {
+  height: 27px;
+  width: 45px;
+  display: inline-block;
+}
+
+.lft2 {
+  position: relative;
+  left: 20px;
+}
+
+/* ---------- PAKISTAN ---------- */
+#pak {
+  text-transform: capitalize;
+  color: #0f4221;
+  font-size: 40px;
+}
+
+.flag3 {
+  height: 450px;
+  width: 600px;
+  margin: 20px auto;
+  position: relative;
+}
+
+.flag3 > div {
+  height: 450px;
+  display: inline-block;
+}
+
+#wth3 {
+  width: 150px;
+  background-color: #ffffff;
+}
+
+#grn3 {
+  width: 450px;
+  background-color: #0f4221;
+}
+
+#moon3 {
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
